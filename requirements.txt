@@ -50,7 +50,6 @@ Pyrebase4==4.7.0
 pyRFC3339==1.1
 python-jwt==4.0.0
 pytz==2023.3
-pywin32==306
 requests==2.30.0
 requests-toolbelt==0.10.1
 rsa==4.9
